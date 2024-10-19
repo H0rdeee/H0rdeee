@@ -10,7 +10,7 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 * 👯 I’m looking forward to **be a part of various interesting projects.**
 * 🤝 I’m eager to know about **opportunities which will help me in expanding my potential.**
 
-<img alt="GIF" src="https://github.com/H0rdeee/H0rdeee/blob/main/hadder.gif?raw=true" width="500"/> 
+<img alt="GIF" src="https://github.com/H0rdeee/H0rdeee/blob/main/hadder.gif?raw=true" width="900"/> 
 
 <hr/>
 
